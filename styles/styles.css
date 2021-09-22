@@ -1,7 +1,24 @@
+a,
 p,
 li,
 h3,
 h2,
 h1{
     font-family: sans-serif;
+    width: 800px;
+    margin: 10px auto;
+}
+li {
+    box-sizing:border-box;
+    margin: auto;
+}
+img {
+    display:block;
+    margin: auto;
+    border: 10px solid rgba(43, 40, 40, 0.39);
+    width:600px;
+    height:auto;
+}
+a{
+    display:block;
 }
